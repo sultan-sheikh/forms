@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap');
+
+body{
+    font-family: 'PT Serif', serif;
+    font-family:verdana;
+}
+
+
+img{
+	max-width:100%;
+}
+
+.navbar{
+	background-image: linear-gradient(to left, #ff5d9e, #76ddff); 
+}
+.navbar-brand{
+	max-width:100px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+/*sign-up section start*/
+header {
+    background-image: linear-gradient(to left, #ff5d9e, #76ddff);
+    padding: 50px 0;
+    text-align: center;
+}
+
+header h1{
+    color: white;
+    text-shadow: 2px 7px 0px #00000017;
+    font-size:50px;
+}
+
+.signup_section{
+	padding:50px 0;
+}
+
+
+.signup_section .row{
+}
+
+
+/*signup form start*/
+
+/*signup form end*/
+/*sign-up section end*/
